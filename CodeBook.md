@@ -94,6 +94,8 @@ grouped_df [180 × 81] (S3: grouped_df/tbl_df/tbl/data.frame)
  $ fBodyBodyGyroJerkMagMeanFreq: num [1:180] 0.191 0.114 0.19 0.185 0.334 ...
 ```
 
+Use View(combined.df) to view data
+
 # High level steps
 
   - download data file and unzip it
